@@ -8,4 +8,4 @@ idade = int(input('Digite a sua idade: '))
 if idade >= 18:
     print(f"Seja bem-vindo ao nosso site {nome}!")
 else:
-    print(f"Você não pode acessar nosso site {nome}.")
+    print(f"Você não pode acessar nosso site {nome}.")     
